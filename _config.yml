@@ -1,14 +1,14 @@
 # Site settings
 name: WonderShao
 description: "blog"
-url: "http://zehaoshao.github.io"
+url: ""
 
 
 # Delete the lines you don't need
 email: 1533584370@qq.com
 github_username:  zehaoshao
 # If you don't have a blog page delete the next line
-blog_url: "/blog"
+blog_url: ""
 
 
 avatar: yes
