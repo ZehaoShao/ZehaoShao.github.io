@@ -1,16 +1,14 @@
 # Site settings
-name: John Smith
-description: "Nifty little description"
-url: ""
+name: WonderShao
+description: "blog"
+url: "http://zehaoshao.github.io"
 
 
 # Delete the lines you don't need
-email: your-email@example.domain
-github_username:  dashingcode
-twitter_username: your_twitter_username_goes_here
-medium_username:  your_medium_username_goes_here
+email: 1533584370@qq.com
+github_username:  zehaoshao
 # If you don't have a blog page delete the next line
-blog_url: "/blog"
+blog_url: "http://zehaoshao.github.io"
 
 
 avatar: yes
